@@ -10,8 +10,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <?php 
-        // Nama folder disesuaikan menjadi ebook_sampah tanpa tanda strip
-        $base_url = "http://" . $_SERVER['HTTP_HOST'] . "/ebook_sampah";
+        // Deteksi lingkungan untuk URL
+        $host = $_SERVER['HTTP_HOST'];
+        if (strpos($host, 'localhost') !== false) {
+            $base_url = "http://localhost/ebook_sampah";
+        } else {
+            $base_url = "https://" . $host;
+        }
     ?>
     <link rel="stylesheet" href="<?php echo $base_url; ?>/assets/css/style.css">
 </head>
