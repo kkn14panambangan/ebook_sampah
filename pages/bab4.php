@@ -2,8 +2,8 @@
 <?php include '../config/includes/navbar.php'; ?>
 
 <div class="container" style="margin-top: 100px;">
-    <div class="content-wrapper">
-        <h1 class="page-title">BAB 4: Mengolah Sampah Organik 🌱</h1>
+    <div class="content-wrapper ebook-reader">
+        <h1 class="page-title" style="font-family: 'Poppins', sans-serif;">BAB 4: Mengolah Sampah Organik 🌱</h1>
         
         <p>Sampah sisa makanan dan daun kering mencakup 60% dari total sampah rumah kita. Mari ubah masalah ini jadi pupuk gratis untuk tanaman pekarangan!</p>
 
@@ -32,7 +32,7 @@
             <strong>Keuntungan Maggot:</strong> Maggot bisa memakan sampah organik dengan sangat cepat. Maggot dewasa bisa dipanen dan dijual sebagai pakan ternak (ayam/lele) yang kaya protein tinggi. Ini adalah peluang bisnis baru untuk pemuda Desa Panambangan!
         </div>
 
-        <div class="d-flex justify-content-between mt-5">
+        <div class="ebook-nav-buttons">
             <a href="bab3.php" class="btn btn-outline-secondary">⬅️ Bab 3</a>
             <a href="bab5.php" class="btn btn-success">Lanjut ke Bab 5 ➡️</a>
         </div>

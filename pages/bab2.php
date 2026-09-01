@@ -2,8 +2,8 @@
 <?php include '../config/includes/navbar.php'; ?>
 
 <div class="container" style="margin-top: 100px;">
-    <div class="content-wrapper">
-        <h1 class="page-title">BAB 2: Prinsip 3R (Reduce, Reuse, Recycle) ♻️</h1>
+    <div class="content-wrapper ebook-reader">
+        <h1 class="page-title" style="font-family: 'Poppins', sans-serif;">BAB 2: Prinsip 3R (Reduce, Reuse, Recycle) ♻️</h1>
         
         <p class="lead">Mengelola sampah itu mudah kalau kita hafal jurus 3R. Yuk kita bahas satu per satu!</p>
 
@@ -46,7 +46,7 @@
             <strong>Kunci Sukses:</strong> Jadikan 3R sebagai kebiasaan baru keluarga Anda. Mulai dari hal kecil hari ini!
         </div>
 
-        <div class="d-flex justify-content-between mt-5">
+        <div class="ebook-nav-buttons">
             <a href="bab1.php" class="btn btn-outline-secondary">⬅️ Bab 1</a>
             <a href="bab3.php" class="btn btn-success">Lanjut ke Bab 3 ➡️</a>
         </div>

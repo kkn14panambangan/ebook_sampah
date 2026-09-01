@@ -26,8 +26,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <?php include '../config/includes/navbar.php'; ?>
 
 <div class="container" style="margin-top: 100px;">
-    <div class="content-wrapper">
-        <h1 class="page-title">BAB 6: Aksi Nyata! 🚀</h1>
+    <div class="content-wrapper ebook-reader">
+        <h1 class="page-title" style="font-family: 'Poppins', sans-serif;">BAB 6: Aksi Nyata! 🚀</h1>
         
         <p>Pengetahuan saja tidak cukup, yang kita butuhkan adalah <strong>Tindakan</strong>. Mari berkolaborasi menciptakan Desa Panambangan yang bersih, sehat, dan indah.</p>
 

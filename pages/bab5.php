@@ -2,8 +2,8 @@
 <?php include '../config/includes/navbar.php'; ?>
 
 <div class="container" style="margin-top: 100px;">
-    <div class="content-wrapper">
-        <h1 class="page-title">BAB 5: Mengelola Sampah Anorganik 💰</h1>
+    <div class="content-wrapper ebook-reader">
+        <h1 class="page-title" style="font-family: 'Poppins', sans-serif;">BAB 5: Mengelola Sampah Anorganik 💰</h1>
         
         <p>Plastik, kardus, dan botol kaca memang tidak bisa membusuk. Walaupun di desa kita tidak ada fasilitas Bank Sampah, barang-barang ini tetap merupakan "uang receh" yang tersembunyi. Saatnya kita menabung dari sampah!</p>
 
@@ -54,7 +54,7 @@
             <li><strong>Ecobrick:</strong> Memasukkan plastik kresek bekas ke dalam botol hingga sangat padat untuk dijadikan bata ramah lingkungan (bisa disusun menjadi kursi kecil di teras).</li>
         </ul>
 
-        <div class="d-flex justify-content-between mt-5">
+        <div class="ebook-nav-buttons">
             <a href="bab4.php" class="btn btn-outline-secondary">⬅️ Bab 4</a>
             <a href="bab6.php" class="btn btn-success">Lanjut ke Bab 6 ➡️</a>
         </div>

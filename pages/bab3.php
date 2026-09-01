@@ -2,8 +2,8 @@
 <?php include '../config/includes/navbar.php'; ?>
 
 <div class="container" style="margin-top: 100px;">
-    <div class="content-wrapper">
-        <h1 class="page-title">BAB 3: Panduan Memilah Sampah 🚮</h1>
+    <div class="content-wrapper ebook-reader">
+        <h1 class="page-title" style="font-family: 'Poppins', sans-serif;">BAB 3: Panduan Memilah Sampah 🚮</h1>
         
         <p>Langkah pertama sebelum sampah diolah adalah <strong>dipilah</strong>. Kalau semuanya dicampur, sampah jadi kotor, bau, dan tidak ada harganya!</p>
 
@@ -49,7 +49,7 @@
             <li><strong>Sampah Residu:</strong> Dibungkus rapat, lalu diserahkan ke petugas pengangkut sampah desa (sesuai jadwal retribusi) untuk dibawa ke TPA.</li>
         </ol>
 
-        <div class="d-flex justify-content-between mt-5">
+        <div class="ebook-nav-buttons">
             <a href="bab2.php" class="btn btn-outline-secondary">⬅️ Bab 2</a>
             <a href="bab4.php" class="btn btn-success">Lanjut ke Bab 4 ➡️</a>
         </div>
