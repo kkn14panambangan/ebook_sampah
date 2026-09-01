@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top">
-  <div class="container">
-    <a class="navbar-brand" href="<?php echo $base_url; ?>/index.php">🌱 E-Book Desa Panambangan</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+  <div class="container d-flex justify-content-between align-items-center flex-nowrap">
+    <a class="navbar-brand text-truncate" href="<?php echo $base_url; ?>/index.php" style="font-size: 1.15rem; max-width: 75%;">🌱 E-Book Panambangan</a>
+    <button class="navbar-toggler ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
