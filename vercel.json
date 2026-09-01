@@ -1,7 +1,7 @@
 {
   "functions": {
-    "index.php": { "runtime": "vercel-php@0.6.1" },
-    "pages/*.php": { "runtime": "vercel-php@0.6.1" }
+    "index.php": { "runtime": "vercel-php@0.6.0" },
+    "pages/*.php": { "runtime": "vercel-php@0.6.0" }
   },
   "routes": [
     { "src": "/config/(.*)", "status": 404 }
