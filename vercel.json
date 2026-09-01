@@ -1,7 +1,8 @@
 {
   "builds": [
     { "src": "index.php", "use": "vercel-php@0.9.0" },
-    { "src": "pages/*.php", "use": "vercel-php@0.9.0" }
+    { "src": "pages/*.php", "use": "vercel-php@0.9.0" },
+    { "src": "assets/**", "use": "@vercel/static" }
   ],
   "redirects": [
     { "source": "/config/(.*)", "destination": "/", "permanent": false }
