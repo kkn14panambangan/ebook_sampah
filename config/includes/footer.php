@@ -3,7 +3,10 @@
         <div class="row justify-content-center align-items-center mb-4">
             <div class="col-12 text-center">
                 <p class="mb-2 fw-bold text-success" style="font-size: 0.95rem;">📱 Scan & Bagikan E-Book Ini</p>
-                <img src="<?php echo $base_url; ?>/assets/img/qrcode_website.png" alt="QR Code E-Book" class="img-fluid rounded shadow-sm bg-white p-2" style="max-width: 130px; border: 2px dashed #28a745;">
+                <a href="<?php echo $base_url; ?>/assets/img/qrcode_website.png" download="QR_EBook_Panambangan.png" title="Klik untuk Download QR Code">
+                    <img src="<?php echo $base_url; ?>/assets/img/qrcode_website.png" alt="QR Code E-Book" class="img-fluid rounded shadow-sm bg-white p-2" style="max-width: 130px; border: 2px dashed #28a745;">
+                </a>
+                <p class="mt-2 text-muted" style="font-size: 0.8rem;">(Klik gambar untuk Download)</p>
             </div>
         </div>
         <p class="mb-1">🌟 <strong>E-Book Panduan Pengelolaan Sampah Rumah Tangga</strong> 🌟</p>
