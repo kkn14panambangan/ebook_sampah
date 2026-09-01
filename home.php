@@ -67,4 +67,10 @@
     </div>
 </div>
 
+<div class="container mt-5 mb-5 pt-3 text-center">
+    <h3 style="color: #28a745; font-weight: bold;">Tim Penyusun KKM 14 Panambangan 🎓</h3>
+    <p class="text-muted mb-4">Terima kasih kepada seluruh warga dan perangkat Desa Panambangan atas dukungan luar biasa untuk program ini.</p>
+    <img src="<?php echo $base_url; ?>/assets/img/tim_kkn.jpg" alt="Tim KKM 14 Panambangan" class="img-fluid rounded shadow-lg" style="max-width: 800px; width: 100%; border: 4px solid white;">
+</div>
+
 <?php include 'config/includes/footer.php'; ?>
